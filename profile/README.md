@@ -12,9 +12,9 @@ At [`prefix.dev`](https://prefix.dev) we are commited to a great developer exper
 We are the people behind the succesful [`mamba`](https://github.com/mamba-org) package manager. Mamba handles packages for Python, C, C++, Fortran, Ruby and many more programming languages – at prefix.dev we are commited to take what we've learned and improve on that.
 
 Our main projects are:
-- `pixi`: The package and workflow manager that allows users to create and manage projects in a modern way while maintaining a familiar feel. It supports both the `conda` and `pypi` ecosystems.
-- `rattler-build`: The conda-package builder, as a replacement for `conda-build` and `boa`, to significantly speed up conda package creation.
-- `rattler`: Rust crates to work with the Conda ecosystem. (`conda` is `python` and `mamba` is `C++`)
+- [`pixi`](https://github.com/prefix-dev/pixi): The package and workflow manager that allows users to create and manage projects in a modern way while maintaining a familiar feel. It supports both the `conda` and `pypi` ecosystems.
+- [`rattler-build`](https://github.com/prefix-dev/rattler-build): The conda-package builder, as a replacement for `conda-build` and `boa`, to significantly speed up conda package creation.
+- [`rattler`](https://github.com/conda/rattler): Rust crates to work with the Conda ecosystem. (`conda` is `python` and `mamba` is `C++`)
 - [prefix.dev](https://prefix.dev/channels): The fast conda package index, and private channel hosting server.
 
 We stand for:
